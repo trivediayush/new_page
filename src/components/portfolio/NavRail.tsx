@@ -45,9 +45,6 @@ export function NavRail() {
               className="h-1.5 w-1.5 shrink-0 translate-y-[-0.1rem] bg-primary transition-transform duration-500 group-hover:scale-150"
             />
             <span className="whitespace-nowrap">{profile.name}</span>
-            <span className="hidden whitespace-nowrap text-[0.7rem] text-muted-foreground 2xl:inline">
-              /* {profile.role} */
-            </span>
           </a>
 
 
